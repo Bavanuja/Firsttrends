@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   
   return (
-    <div style={{ backgroundColor:'black', minHeight:'100vh'}}>
+    <div style={{ backgroundColor:'#202124', minHeight:'100vh'}}>
      <Home />  
     </div>
   )
