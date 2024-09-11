@@ -1,8 +1,12 @@
 import React from 'react'
-import HeroSection from '../components/heroSection'
+import BoxContainer from '../components/boxContainer'
 
 export default function Home() {
   return (
-    <HeroSection />
+    <>
+   <BoxContainer />
+   </>
   )
 }
+
+
