@@ -7,13 +7,10 @@ import Home from './pages/home';
 function App() {
   
   return (
-    // <div style={{ backgroundColor:'#202124', minHeight:'100vh'}}>
-    //  <Home />  
-    //  </div>
-   
-      <Home />
-   
-  )
+    <div style={{ backgroundColor:'#202124', minHeight:'100vh'}}>
+     <Home />  
+     </div>
+ )
 }
 
 export default App
