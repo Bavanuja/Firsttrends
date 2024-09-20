@@ -1,5 +1,8 @@
 import React from 'react'
 import Profilecard from '../components/profileCard'
+import Component1 from '../components/component1'
+import Post from '../components/post'
+import ToDo from '../components/toDo'
 
 export default function Home(props) {
   return (
@@ -18,5 +21,20 @@ export default function Home(props) {
   </div>
   )
 }
+
+
+// export default function Home() {
+//   return (
+//     <div>
+//       <Component1 />
+//     </div>
+//   )
+// }
+
+// export default function Home() {
+//   return (
+//    <ToDo />
+//  )
+// }
 
 
