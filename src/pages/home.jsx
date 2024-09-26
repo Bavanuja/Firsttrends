@@ -20,18 +20,6 @@ export default function Home(props) {
 }
 
 
-// export default function Home() {
-//   return (
-//     <div>
-//       <Component1 />
-//     </div>
-//   )
-// }
 
-// export default function Home() {
-//   return (
-//    <ToDo />
-//  )
-// }
 
 
